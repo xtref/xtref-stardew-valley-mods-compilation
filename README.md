@@ -1,3 +1,17 @@
+# xtref's Stardew Valley Mods Compilation
+
+## Quality of Life
+
+* [Colored Seeds (according to the season in which they grow)](https://www.nexusmods.com/stardewvalley/mods/3774)
+
+## Sprites - Others
+
+* [CP Mermaids Replace Old Mariner Redux](https://www.nexusmods.com/stardewvalley/mods/13071)
+
+## New characters
+
+* [Ran's Harvest Goddess (replaces the wizard)](https://www.nexusmods.com/stardewvalley/mods/2969)
+
 # **NSFW**
 
 ## Gameplay - All characters
@@ -50,7 +64,3 @@
 ### Robin
 
 * [Lewd Dialogues for Robin (Spanish)](https://www.nexusmods.com/stardewvalley/mods/12448)
-
-## New characters
-
-* [Ran's Harvest Goddess (replaces the wizard)](https://www.nexusmods.com/stardewvalley/mods/2969)
