@@ -42,7 +42,7 @@
 
 ### Caroline
 
-* [Buxom Caroline Character and Dialogue Overhaul - Can Date and Marry](https://www.nexusmods.com/stardewvalley/mods/3820)
+* [Buxom Caroline Character and Dialogue Overhaul - Can Date and Marry Turkce](https://www.nexusmods.com/stardewvalley/mods/11603)
 
 ### Emily
 
@@ -60,6 +60,10 @@
 
 * [Lewd Leah (dialogue + portrait changes)](https://www.nexusmods.com/stardewvalley/mods/4402)
 * [Big Tiddy Leah (Sprites and Portraits)](https://www.nexusmods.com/stardewvalley/mods/1824)
+
+### Maru
+
+* [Busty Maru in bikini](https://www.nexusmods.com/stardewvalley/mods/2330)
 
 ### Robin
 
